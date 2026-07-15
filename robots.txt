@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://laura-legat.github.io/sitemap.xml
+Sitemap: https://laura-legat.github.io/deepmed-jku/sitemap.xml
